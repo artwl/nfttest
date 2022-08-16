@@ -1,15 +1,1 @@
-{
-    "name": "RYFF #1",
-    "description": "RYFF Image",
-    "image": "https://raw.githubusercontent.com/artwl/nfttest/main/metadata/images/ryff.png",
-    "attributes": [
-        {
-            "trait_type": "loc",
-            "value": "CN"
-        },
-        {
-            "trait_type": "age",
-            "value": "58"
-        }
-    ]
-}
+{"name": "RYFF #1","description": "RYFF Image","image": "https://raw.githubusercontent.com/artwl/nfttest/main/metadata/images/ryff.png","attributes": [{"trait_type": "loc","value": "CN"},{"trait_type": "age","value": "58"}]}
