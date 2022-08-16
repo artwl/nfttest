@@ -1,1 +1,15 @@
-{"name":"Test #1","description":"Hahaha","image":"https://raw.githubusercontent.com/kasoqian/HassanNFT/main/metadata/images/4.png","attributes":[{"trait_type":"health","value":"9"},{"trait_type":"power","value":"68"},{"trait_type":"magic","value":"16"},{"trait_type":"exp","value":"93"},{"trait_type":"lv","value":"R"}]}
+{
+    "name": "RYFF #1",
+    "description": "RYFF Image",
+    "image": "https://raw.githubusercontent.com/artwl/nfttest/main/metadata/images/ryff.png",
+    "attributes": [
+        {
+            "trait_type": "loc",
+            "value": "CN"
+        },
+        {
+            "trait_type": "age",
+            "value": "58"
+        }
+    ]
+}
