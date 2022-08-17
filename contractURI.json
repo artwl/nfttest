@@ -1,0 +1,8 @@
+{
+  "name": "RYFF Set",
+  "description": "RYFF nft Set",
+  "image": "https://raw.githubusercontent.com/artwl/nfttest/main/metadata/images/ryff.png",
+  "external_link": "https://github.com/artwl/nfttest",
+  "seller_fee_basis_points": 1000, # Indicates a 1% seller fee.
+  "fee_recipient": "0x8453C1A07Fe23601814501d2c8b1bDc6e36D6DC6" # Where seller fees will be paid to.
+}
